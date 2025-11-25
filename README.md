@@ -1,41 +1,132 @@
-# Observation Theory / 观测论
+# Observation-Theory (观测论)
 
-> A Unified Meta-Theoretical Framework of Cognition
-> **一个统一的认知元理论框架**
+> 一个关于认知、知识与意识本质的元理论框架
+
+[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![GitHub Issues](https://img.shields.io/github/issues/AsFarAsWeSeen/Observation-Theory)](https://github.com/AsFarAsWeSeen/Observation-Theory/issues)
+
+## 📖 项目简介
+
+《观测论》是一个旨在系统阐述认知活动底层逻辑的认识论元框架。它通过五大核心公理和"驱动-观测-评估"循环，统一描述从基本感知到意识涌现的各类认知现象。
+
+**核心主张**：所有知识都是在特定"认知框架"下构建的内部模型，其价值首要取决于框架内的自洽性与适应性，而非与绝对客观事实的符合程度。
+
+## 🗂️ 项目结构
+
+```
+Observation-Theory/
+├── 📁 《观测论》最新版本/           # 权威版本，持续更新
+│   └── 观测论V5.0（引入适应性作为评价标准并精炼了部分术语）.md
+├── 📁 通俗解读/                    # 面向初学者的友好介绍
+│   └── 观测论：一份尝试解释"我们如何认识世界"的说明书.md
+├── 📁 应用案例/                    # 理论在实际场景中的应用
+│   └── 在信息爆炸的时代，我们如何检验信息的价值.md
+├── 📄 Observation_Theory（观测论）V4.2.pdf  # 历史版本
+├── 📄 README.md                    # 项目说明（本文件）
+├── 📄 LICENSE                     # MIT 开源协议
+└── 📄 .gitignore                  # Git忽略配置
+```
+
+## 🎯 版本说明与阅读指南
+
+### 当前权威版本
+- **[`《观测论》最新版本/观测论V5.0.md`](./《观测论》最新版本/观测论V5.0（引入适应性作为评价标准并精炼了部分术语）.md)**
+  - ✨ 引入"适应性"作为核心评估标准
+  - ✨ 强化"认知迭代"的操作性定义  
+  - ✨ 精炼"认知权重"等关键术语
+  - **推荐所有新读者从该版本开始阅读**
+
+### 历史版本（供参考）
+- [`Observation_Theory（观测论）V4.2.pdf`](./Observation_Theory（观测论）V4.2.pdf) - 上一稳定版本
+
+### 学习路径推荐
+
+**如果您是初学者：**
+1. 先阅读 [`通俗解读/`](./通俗解读/) 建立直观理解
+2. 通过 [`应用案例/`](./应用案例/) 感受理论的实际价值
+3. 深入 [`《观测论》最新版本/`](./《观测论》最新版本/) 掌握完整理论体系
+
+**如果您是研究者：**
+- 直接阅读 [`最新版本`](./《观测论》最新版本/) 获取最前沿理论发展
+- 参考历史版本了解理论演进过程
+
+## 🚀 快速了解观测论
+
+### 核心公理体系
+观测论建立在五个递进的核心公理之上：
+
+1. **生存性驱动公理** - 认知的根本动力
+2. **观测优先公理** - 知识的来源边界  
+3. **框架约束公理** - 认知的先天局限
+4. **模型构建公理** - 心智的核心功能
+5. **认知迭代公理** - 思维的跃迁机制
+
+### 立即体验理论价值
+想要快速感受观测论的实用性？阅读我们的应用案例：
+👉 [**在信息爆炸的时代检验信息价值**](./应用案例/在信息爆炸的时代，我们如何检验信息的价值.md)
+
+这篇文章展示了如何用观测论构建认知防御系统，识别网络信息操纵。
+
+## 💡 理论应用价值
+
+观测论在多个领域展现了解释力：
+
+- **🧠 认知科学**：为意识问题提供自然主义阐释
+- **🛡️ 信息安全**：构建认知防御系统，识别信息操纵
+- **🔬 科学研究**：重新定位科学理论在认知谱系中的位置
+- **🤖 人工智能**：为AGI设计提供哲学蓝图
+- **💑 日常生活**：改善决策质量、提升思维清晰度
+
+## 🔄 项目维护理念
+
+本项目采用 **"活文档"** 维护策略：
+- **最新版本**始终以Markdown格式维护，便于社区协作和持续改进
+- **历史版本**予以保留，确保研究过程的可追溯性
+- 每个重要修改都会通过Git的版本历史完整记录
+
+## 🤝 参与贡献
+
+《观测论》是一个正在成长的理论框架，我们欢迎各种形式的参与：
+
+### 方式一：内容改进
+- 在 [GitHub Issues](https://github.com/AsFarAsWeSeen/Observation-Theory/issues) 中报告笔误或表述不清之处
+- 直接对Markdown文档提出修改建议（通过Pull Request）
+
+### 方式二：理论发展
+- 挑战现有公理体系，提出反驳或修正
+- 探索观测论在新领域的应用可能性
+- 参与理论边界和适用性的讨论
+
+### 方式三：应用拓展
+- 提交新的应用案例
+- 分享您使用观测论的心得体会
+- 翻译成其他语言版本
+
+## ❓ 常见问题
+
+**Q: 为什么最新版本用Markdown而不用PDF？**  
+A: Markdown支持更好的版本追踪、协作贡献和持续改进，符合现代开源学术实践。
+
+**Q: 我应该引用哪个版本？**  
+A: 建议引用最新Markdown版本，它代表理论的最前沿发展。
+
+**Q: 这个理论有实验验证吗？**  
+A: 观测论提供的是理论框架，其价值在于解释力和启发性，欢迎设计实验进行验证。
+
+## 📄 许可证
+
+本项目采用 [MIT 许可证](LICENSE)。您可以自由使用、修改和分发这些内容。
+
+## 📞 联系与讨论
+
+- **项目维护者**: [AsFarAsWeSeen](https://github.com/AsFarAsWeSeen)
+- **讨论渠道**: [GitHub Issues](https://github.com/AsFarAsWeSeen/Observation-Theory/issues)
+- **协作方式**: 欢迎直接对Markdown文档提出改进建议
 
 ---
 
-## 📖 简介 | Introduction
+> 观测论不是完成的真理体系，而是持续发展的探索过程。我们相信，通过开放协作的方式，能更好地推进对人类认知的理解。
 
-观测论旨在提出一个名为“观测论”的认识论元框架。它试图为所有知识体系背后的认知活动，寻找一个统一的底层逻辑。
-
-**核心猜想 | Core Conjecture:** 所有认知活动，本质上都是一个具有内在驱动力的复杂系统，在特定约束下进行信息处理与模型构建，并最终具备自我审视与超越能力的动态过程。
-
-> It does not provide a new map of the world, but rather a **"Manual of Cartography"** for all possible maps.
-> 它不是一张新的世界地图，而是所有可能的世界地图的 **《绘制说明书》**。
-
-## 🧩 核心公理 | Core Axioms
-
-1.  **Axiom of Existential Drive | 生存性驱动公理**
-2.  **Axiom of Observational Primacy | 观测优先公理**
-3.  **Axiom of Framework Constraint | 框架约束公理**
-4.  **Axiom of Model Building | 模型构建公理**
-5.  **Axiom of Cognitive Iteration | 认知迭代公理**
-
-## 📄 论文全文 | Full Text
-
-**[请下载阅读 | Please Download and Read]: [Observation_Theory（观测论）V4.2.pdf]**
-
-## 🎯 邀请参与 | Invitation for Collaboration
-
-我是一名独立研究者，此理论是我个人思考的产物。我将其开源，是希望邀请所有感兴趣的朋友，共同讨论、批评与发展它。
-
-I am an independent researcher. I open-source this theory in the hope of inviting all interested parties to discuss, critique, and develop it collectively.
-
-*   💬 **讨论与反馈 | Discussion & Feedback**: 欢迎在 [Issues] 区发起讨论！
-*   🌍 **跨学科应用 | Cross-disciplinary Application**: 欢迎尝试将此框架应用于心理学、AI、物理学、社会学等领域。
-
-## 许可证 | License
-
-本项目采用 [知识共享 署名 4.0 国际许可协议](https://creativecommons.org/licenses/by/4.0/deed.zh) (CC-BY-4.0) 进行许可。
-This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
+<div align="center">
+<sub>如果这个项目对您有启发，请给个 ⭐️ 星标支持！</sub>
+</div>
